@@ -3,14 +3,12 @@
 goombafont;
 color:red;
 pointer-events:none;
-top: 0;
-left: 0;
-z-index: -10;
+z-index: -11;
 position: fixed;
+inset:0;
 object-fit: cover;
 background-size: cover;
-height 100%;
-width: 100%;
+width: 130vw;
 opacity: 0.7;
 background: url('https://raw.githubusercontent.com/Pandaptable/Pandaptable/main/wall.png');
 "]{}
