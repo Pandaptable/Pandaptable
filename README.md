@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pandaptable&no-bg=true&no-frame=true&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://komarev.com/ghpvc/?username=Pandaptable"/>
 
 [![Pandaptable's Github Stats](https://github-readme-stats.vercel.app/api?username=Pandaptable&theme=catppuccin_mocha&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandaptable&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=html,nunjucks,scss)](https://github.com/anuraghazra/github-readme-stats)
