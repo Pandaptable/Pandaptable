@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Pandaptable&color=cba6f7&style=for-the-badge"/>
+    <br>
     <a href="https://discord.com/users/97153209843335168y"><img src="https://lanyard.cnrad.dev/api/97153209843335168?hideDiscrim=true&borderRadius=30px&bg=1e1e2e"/></a>
 </p>
 <p>
