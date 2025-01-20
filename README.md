@@ -12,8 +12,8 @@
 <p align="center">
     mrrroaawww :3333
     <a href="https://uwu.gal/about-us"><img src="https://uwu.gal/button.png" width="88" height="31" loading="lazy" alt="uwu.gal 88x31 button"/></a>
-    <a href="https://panley.みんな" style="cursor: none;"><img src="/static/images/friends/panley.png" width="88" height="31" loading="lazy"></a>
-    <a href="https://lumap.xyz" style="cursor: none;"><img src="/static/images/friends/lumap.png" width="88" height="31" loading="lazy"></a>
-    <a href="https://hanna.lol" style="cursor: none;"><img src="/static/images/friends/hannalol.png" width="88" height="31" loading="lazy"></a>
-    <a href="https://pre1ude.dev/#connections" style="cursor: none;"><iframe src="https://pre1ude.dev/referer" height="31" width="88" frameborder="0" referrerpolicy="origin" loading="lazy"></iframe></a>
+    <a href="https://panley.みんな" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/panley.png?raw=true" width="88" height="31" loading="lazy"></a>
+    <a href="https://lumap.xyz" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/lumap.png?raw=true" width="88" height="31" loading="lazy"></a>
+    <a href="https://hanna.lol" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/hannalol.png?raw=true" width="88" height="31" loading="lazy"></a>
+    <a href="https://pre1ude.dev/#connections" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/pre1ude.png?raw=true width="88" height="31" loading="lazy"></a>
 </p>
