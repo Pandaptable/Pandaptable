@@ -25,5 +25,5 @@
 <h1 align=center>↓ add my button btw ↓</h1>
 
 ```html
-<a href="https://github.com/Pandaptable" style="cursor: none;"><img src="https://uwu.gal/static/images/friends/nemmintron.gif" width="88" height="31" loading="lazy"></a>
+<a href="https://github.com/Pandaptable" style="cursor: none;"><img src="https:/uwu.gal/static/images/friends/nemmintron.gif" width="88" height="31" frameborder="0" loading="lazy" /></a>
 ```
