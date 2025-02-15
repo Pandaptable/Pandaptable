@@ -16,7 +16,6 @@
     <br>
     <a href="https://panley.みんな" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/panley.png?raw=true" width="88" height="31" loading="lazy"></a>
     <a href="https://lumap.xyz" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/lumap.png?raw=true" width="88" height="31" loading="lazy"></a>
-    <a href="https://hanna.lol" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/hannalol.png?raw=true" width="88" height="31" loading="lazy"></a>
     <a href="https://pre1ude.dev/#connections" style="cursor: none;"><img src="https://github.com/Pandaptable/Pandaptable/blob/main/buttons/pre1ude.png?raw=true width="88" height="31" loading="lazy"></a>
     <br>
 </p>
