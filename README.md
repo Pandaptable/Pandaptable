@@ -15,9 +15,3 @@
 <p align="center">
     mrrroaawww :3333
 </p>
-
-<h1 align=center>↓ add my button btw ↓</h1>
-
-```html
-<a href="https://github.com/Pandaptable"><img src="https://raw.githubusercontent.com/Pandaptable/Pandaptable/refs/heads/main/buttons/nemmy.gif" width="88" height="31" frameborder="0" loading="lazy"/></a>
-```
