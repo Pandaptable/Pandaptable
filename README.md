@@ -11,7 +11,3 @@
 <p align="center">
     <a href="https://discord.com/users/97153209843335168"><img src="https://lanyard.cnrad.dev/api/97153209843335168?borderRadius=30px&showDisplayName=true&hideDiscrim=true&bg=1e1e2e" /></a>
 </p>
-
-<p align="center">
-    mrrroaawww :3333
-</p>
